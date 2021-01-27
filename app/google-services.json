@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "81308813159",
+    "firebase_url": "https://lifechangingquotes-24538.firebaseio.com",
+    "project_id": "lifechangingquotes-24538",
+    "storage_bucket": "lifechangingquotes-24538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81308813159:android:83276499d2a2184fd251c2",
+        "android_client_info": {
+          "package_name": "com.example.lifequote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81308813159-dm6aoqmioqf647s6bj9lu82v7179ju1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lifequote",
+            "certificate_hash": "09c4ebdfe87afa67d567c8a5e361b35103543d71"
+          }
+        },
+        {
+          "client_id": "81308813159-hsqvu69u25qvrlvvn2q99f8kcti00940.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo5NSdd3DJX3nvtxAiPyIOWi89TivdzAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81308813159-hsqvu69u25qvrlvvn2q99f8kcti00940.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
