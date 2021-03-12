@@ -8,5 +8,5 @@ Screenshots
 ![quote5](https://user-images.githubusercontent.com/68778985/105952837-2a8b4d80-6098-11eb-98a7-405d81ad318d.jpeg)
 ![quote6](https://user-images.githubusercontent.com/68778985/105952840-2b23e400-6098-11eb-8802-dbbc0b1e6b89.jpeg)
 ![quote7](https://user-images.githubusercontent.com/68778985/105952841-2bbc7a80-6098-11eb-87c6-6985bb871f5a.jpeg)
-![quote8](https://user-images.githubusercontent.com/68778985/105952842-2c551100-6098-11eb-8256-e899f1bfb03f.jpeg)
+
 
